@@ -1,6 +1,6 @@
 # ClojureScript on Node.js
 
-This template is just to gather together as much information as
+This skeleton project is just to gather together as much information as
 possible about running ClojureScript effectively under Node.js.
 
 All of this information is current as of Sept. 20th, 2014, although
@@ -138,6 +138,7 @@ If you dig into the code, you'll see some examples of how to use:
 
 # TODO
 
+* Turn into lein-template!
 * Show how to set up tests
 * Wrap some basic node.js functionality with ClojureScript
 * Fill in some basic things missing from cljs.core, such as __slurp__

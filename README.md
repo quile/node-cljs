@@ -139,6 +139,7 @@ If you dig into the code, you'll see some examples of how to use:
 # TODO
 
 * Turn into lein-template!
+* core.async example code!
 * Show how to set up tests
 * Wrap some basic node.js functionality with ClojureScript
 * Fill in some basic things missing from cljs.core, such as __slurp__

@@ -1,5 +1,7 @@
 # ClojureScript on Node.js
 
+### __NOTE: You probably want the lein template of this project!  See https://github.com/quile/node-cljs-template for more.__
+
 This skeleton project is just to gather together as much information as
 possible about running ClojureScript effectively under Node.js.
 
